@@ -1,0 +1,16 @@
+{
+  "name": "ms-autenticacao",
+  "version": "1.0.0",
+  "description": "Microservice criado durante o live code com pessoal da DIO",
+  "main": "./dist/index.js",
+  "scripts": {
+    "start": "node ./",
+    "build": "tsc -p .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Carlos",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
